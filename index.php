@@ -49,7 +49,6 @@ function mergesort($array){
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
         <script src="resources/js/common.js" type="text/javascript"></script>
         
-        
         <!--CSS-->
         <link href="resources/css/common.css" rel="stylesheet" type="text/css"/>
         <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
