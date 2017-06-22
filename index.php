@@ -71,7 +71,15 @@ function mergesort($array){
                 <li>Responsive Design</li>
             </ul>
         </div>
-        <p>*Opens up a can of worms</p>
+        
+        <!--<p>*Opens up a can of worms</p>
+        Closure practice
+        <div>
+            <input type="button" value="Click Me!" onclick="click();"> 
+            <label id="clickCount">0</label>
+        </div>
+        -->
+        
         <!--The table was made just because I wanted to refresh on making tables and to make sure the data is right--> 
         <ul class="table">
             <li>
